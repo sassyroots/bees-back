@@ -1,0 +1,48 @@
+lipbalm:
+  price: 8
+  ingredients:
+    - Avocado oil
+    - Jojoba oil
+    - Beeswax
+  flavors:
+    - unflavored
+    - spearmint
+    - peppermint
+    - tea trea
+    - orange
+    - grapefruit
+  vars: "1 oz | 2oz[+2] | 4oz[+5]"
+
+lotion:
+  ingredients:
+    - water
+    - wax
+    - natual perservatives
+  vars:
+    - size: "2oz"
+      price: "tbd"
+    - size: "4oz"
+      price: "15"
+    - size: "8oz"
+      price: "tbd"
+
+tincture:
+  ingredients:
+    - alcohol
+  vars:
+    - size: "1oz"
+      price: "tbd"
+    - size: "2oz"
+      price: "15"
+    - size: "4oz"
+      price: "tbd"
+    - size: "8oz"
+      price: "tbd"
+
+notebook:
+  vars:
+    - type: printed
+      price: "20"
+    - type: pdf
+      price: "15"
+    
